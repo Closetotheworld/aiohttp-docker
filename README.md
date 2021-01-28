@@ -20,6 +20,6 @@ aiohttp-sample/
   - `docker build -t aiosample .`
  
 2. run
-  - `docker run -it --rm --name aio -v {now_pwd}:/aiohttp-sample aiosample /bin/bash
+  - `docker run -it --rm --name aio -v {now_pwd}:/aiohttp-sample aiosample /bin/bash`
 
 3. do it
